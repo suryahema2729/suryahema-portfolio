@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152e"/><stop offset=".55" stop-color="#123b87"/><stop offset="1" stop-color="#2864e8"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1050" cy="100" r="230" fill="none" stroke="#d8a62b" stroke-opacity=".25" stroke-width="2"/>
+<circle cx="1050" cy="100" r="170" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+<text x="90" y="180" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#fff">Surya Hema Tejaswani Sura</text>
+<text x="90" y="250" font-family="Arial,sans-serif" font-size="32" fill="#f0c95a">FULL STACK JAVA DEVELOPER • FRESHER</text>
+<line x1="90" y1="295" x2="460" y2="295" stroke="#d8a62b" stroke-width="5"/>
+<text x="90" y="355" font-family="Arial,sans-serif" font-size="24" fill="#d8e1f2">Java • MySQL • HTML • CSS • JavaScript • GitHub</text>
+<text x="90" y="535" font-family="Arial,sans-serif" font-size="22" fill="#fff" opacity=".8">Portfolio</text>
+</svg>
